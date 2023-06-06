@@ -17,6 +17,3 @@ n = int(input("Enter an integer: "))
 result = compute(n)
 print("Result:", result)
 
-# n = int(input("Enter an integer: "))
-# result = compute(n)
-# print(result)
