@@ -1,4 +1,4 @@
-# ASSIGNMENT FOR Onlinesales.ai 
+# Onlinesales.ai 
  - the assignments are given in he format of files checkout the links below->
 
 # TASK 1 -> SQL
